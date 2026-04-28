@@ -1,0 +1,20 @@
+.statistique {
+  display: inline-block;
+  padding: 20px 30px;
+  margin: 10px;
+  text-align: center;
+  min-width: 120px;
+}
+
+.statistique-chiffre {
+  display: block;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.statistique-libelle {
+  display: block;
+  font-size: 15px;
+  opacity: 0.85;
+  font-family: 'Times New Roman', Times, serif;
+}

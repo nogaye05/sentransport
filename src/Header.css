@@ -6,10 +6,17 @@ text-align: center;
 }
 .header-titre {
 margin: 0;
-font-size: 2rem;
+font-size: 32px;
 }
 .header-soustitre {
 margin: 5px 0 0 0;
-font-size: 1rem;
+font-size: 16px;
 opacity: 0.9;
+}
+
+
+.header-date {
+  margin: 5px 0 0 0;
+  font-size: 8.px;
+  opacity: 0.75;
 }
