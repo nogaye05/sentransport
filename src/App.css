@@ -18,17 +18,28 @@ flex: 1;
 padding: 12px;
 }
 }
-@media (max-width: 600px) {
-.contenu {
-padding: 12px;
+.aucune-ligne {
+  text-align: center;
+  padding: 40px 20px;
+  color: #7f8c8d;
+  background-color: #ffffff;
+  border-radius: 8px;
+  margin-top: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
-.ligne-bus {
-padding: 10px 12px;
+
+.aucune-ligne p {
+  font-size: 1rem;
+  margin-bottom: 8px;
 }
-.ligne-numero {
-width: 40px;
-height: 40px;
-font-size: 1rem;
-margin-right: 12px;
+
+.aucune-ligne-sub {
+  font-size: 0.85rem;
+  color: #b2bec3;
 }
+.compteur-recherche {
+  font-size: 0.85rem;
+  color: #7f8c8d;
+  text-align: right;
+  margin-bottom: 8px;
 }
