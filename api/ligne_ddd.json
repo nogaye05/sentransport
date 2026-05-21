@@ -44,5 +44,21 @@
 "arrets": 11,
 "listeArrets": ["Yoff Village", "Aeroport LSS",
 "Parcelles U17", "Grand Yoff", "HLM", "Sandaga"]
+},
+{
+  "id": 7,
+  "numero": "213",
+  "depart": "terminus liberte 5",
+  "arrivee": "Rufisque",
+  "arrets": 20,
+  "listeArrets": ["Liberte 6", "Khar Yallah","Grand Yoff", "Thiaroye", "Pikine", "Rufisque"]
+},
+{
+  "id": 8,
+  "numero": "4",
+  "depart": "terminus liberte 5",
+  "arrivee": "Palais",
+  "arrets": 15,
+  "listeArrets": ["Sicap Liberte", "Derkele", "Dieuppeul", "Sicap Amitie", "Point E", "UCAD","Ville"]
 }
 ]

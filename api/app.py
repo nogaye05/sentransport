@@ -47,8 +47,7 @@ def get_ligne(ligne_id):
     if ligne is None:
       return jsonify({"erreur": "Ligne non trouvee"}), 404
     return jsonify(ligne)
-if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+
 
 # EXERCICE 1
 
@@ -77,6 +76,4 @@ def get_stats():
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
-
-
 
